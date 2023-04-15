@@ -27,7 +27,7 @@
   --fluent-text-on-accent-color: 0, 0, 0;
   --fluent-acrylic-background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1159f61e-f5a4-44d3-9c6d-cd52d48586d3/d69z0wm-fa81c177-b840-45d9-b17b-555f5a4ad1e6.png/v1/fill/w_1024,h_775,q_80,strp/rq__me_tied_up_by_raygirl12_d69z0wm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9Nzc1IiwicGF0aCI6IlwvZlwvMTE1OWY2MWUtZjVhNC00NGQzLTljNmQtY2Q1MmQ0ODU4NmQzXC9kNjl6MHdtLWZhODFjMTc3LWI4NDAtNDVkOS1iMTdiLTU1NWY1YTRhZDFlNi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OF2OqzjLf54D0A1bFbsm3w38irefaQuyAVC4kUpThG0);
   --fluent-acrylic-background-blur: 24px;
-  --fluent-acrylic-background-dimness: 75%;
+  --fluent-acrylic-background-dimness: 100%;
   --fluent-acrylic-background-saturate: 140%;
   --fluent-guilds-icon-size: 24px;
 }
